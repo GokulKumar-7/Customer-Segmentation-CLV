@@ -1,0 +1,7 @@
+data/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.virtual_documents/
+*.xlsx
+.DS_Store
