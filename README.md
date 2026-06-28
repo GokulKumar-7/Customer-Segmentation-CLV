@@ -14,7 +14,7 @@
 
 This project segments the customers of a UK-based online retailer to identify **where customer value is concentrated and how marketing should act on it**. More than 1.06 million transactions are cleaned and reduced to a customer-level view, segmented using the **RFM (Recency, Frequency, Monetary)** framework, independently validated with **K-Means clustering**, and assigned a projected **Customer Lifetime Value (CLV)**.
 
-It is built deliberately across the three tools most used in business, marketing, and insight analytics roles — **SQL for data engineering, Python for modelling, and Power BI for the interactive dashboard** — to demonstrate the full analytical workflow from raw data to business recommendation.
+It is built deliberately across the three tools most used in business, marketing, and insight analytics roles — **SQL for data engineering, Python for modelling, and Power BI for the interactive dashboard** to demonstrate the full analytical workflow from raw data to business recommendation.
 
 ---
 
@@ -83,7 +83,7 @@ The **Champions** segment is ~25% of customers (1,478 of 5,878) but generates **
 
 ### A high-value segment is quietly disengaging
 
-Ranked by **projected lifetime value**, the **High-Value At Risk** segment is second only to Champions (avg CLV £937), ahead of Loyal Customers — yet these 354 customers have not purchased in ~343 days. This represents approximately **£332,000 of future profit at risk**, and is the project's primary, most quantifiable opportunity.
+Ranked by **projected lifetime value**, the **High-Value At Risk** segment is second only to Champions (avg CLV £937), ahead of Loyal Customers, yet these 354 customers have not purchased in ~343 days. This represents approximately **£332,000 of future profit at risk**, and is the project's primary, most quantifiable opportunity.
 
 ### Two independent methods agree
 
