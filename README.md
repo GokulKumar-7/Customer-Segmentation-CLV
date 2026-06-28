@@ -87,7 +87,7 @@ Ranked by **projected lifetime value**, the **High-Value At Risk** segment is se
 
 ### Two independent methods agree
 
-K-Means independently reproduced the rule-based structure, with strong agreement at the extremes — 1,067 of 1,478 Champions fell into the elite cluster, and 1,513 of 1,534 Hibernating customers into the lapsed cluster. Agreement loosened among mid-tier segments, as expected where the boundaries are genuinely gradual.
+K-Means independently reproduced the rule-based structure, with strong agreement at the extremes 1,067 of 1,478 Champions fell into the elite cluster, and 1,513 of 1,534 Hibernating customers into the lapsed cluster. Agreement loosened among mid-tier segments, as expected where the boundaries are genuinely gradual.
 
 ### A healthy RFM signature
 
